@@ -14,6 +14,7 @@ export const Image = styled.img`
     border-radius: 0.5rem;
     overflow: hidden;
     margin: 2rem 0;
+    max-height: 400px;
 `
 
 export const Description = styled.p`

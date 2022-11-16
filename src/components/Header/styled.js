@@ -7,3 +7,7 @@ export const TitleHeader = styled.header`
     justify-content: center;
     height: 8vh;
 `
+export const FotoPerfil = styled.img`
+    width:50px;
+    height: 50px;
+`
